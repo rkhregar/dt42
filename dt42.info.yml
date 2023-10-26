@@ -1,0 +1,7 @@
+name: 'dt42'
+type: module
+description: 'module doe drupal training ticket 42 custom blocks'
+package: Custom
+core_version_requirement: ^10
+dependencies:
+  - core:block

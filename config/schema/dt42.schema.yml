@@ -1,0 +1,13 @@
+block.settings.dt42_dt42stockinfoblock:
+  type: block_settings
+  label: 'dt42stockInfoBlock block'
+  mapping:
+    company_symbol:
+      type: string
+      label: Company Symbol
+    start_date:
+      type: string
+      label: Start Date
+    end_date:
+      type: string
+      label: End Date
